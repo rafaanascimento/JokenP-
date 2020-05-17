@@ -1,0 +1,2 @@
+# JokenP-
+Exercício - JokenPô - JavaScript
